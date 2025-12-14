@@ -2,6 +2,10 @@
 
 A Quantum framework for dynamic portfolio optimization with Team FFQuartic ([J.-T. Lu](https://github.com/mothorchids), A. Abbassi and J.-N. Lu) during the Quantum Computing Hackathon organized by IBM, City of London and NayaOne, October 2025.
 
+<p align="center">
+  <img src="./img/flowchart.svg" width="800"/>
+</p>
+
 ```
 ├── _FFQuartic.txt   # Main notebook for submission
 ├── _README_FFQuartic.md       # This file
